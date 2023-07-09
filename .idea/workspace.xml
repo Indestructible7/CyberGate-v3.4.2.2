@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a460c872-64e2-46c2-a5be-874c2acb1e79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CyberGate-v3.4.2.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fastRequest/fastRequestCurrentProjectLocalConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ktor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate_v3.4.2.2 Cracked by The Old Warrior.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/GeoIP.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Settings/ClientTasks.file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Settings/ServerTasks.file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Settings/Settings.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Settings/cg.file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Acryl.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Afterburner.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Air.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Aluminium.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Beijing Ext.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Beijing.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/BlueGauze.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/BlueGlass.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/BlueIce.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/BluePlastic.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Calcium.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Cappuccino.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Cold.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/DarkGlass.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Deep.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/DeepPurple.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Desert.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Elegant.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/FalloutStyle.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Garnet.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Golden.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/GrayPlastic.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/HeroesStyle.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/KaraKum.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Ledenets.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/LikeOperaStyle.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/LongHorn.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Lucky.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/MacMetal.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/MacOS.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/MacOS2.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/MetroUI.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Moonlight.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Nautilus.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/NeonNight.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Neutral.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Neutral2.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Neutral3.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Neutral4.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/NextAlpha.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/NextAlpha2.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Office12Style.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Office2003.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Office2007 Black.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Office2007 Blue.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Office2010 Blue.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Opus.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Pulsar.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Retro.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Rhombus.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Sand.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Sapphire.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Shine.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Smoky.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Snow Leopard.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/SoapSky - Blue.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/SoapSky - Lime.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Steam.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/TV-b.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Terminal4bit.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/TheFrog.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Topaz.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Ubuntu.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/UnderWater.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Vienna Ext.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Vienna.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Vista.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/WEB.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/WEB2.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/WLM.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/WMP 2008.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/WMP11.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/WOT.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Winter2003.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Winter2011.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/Wood.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/XPLuna.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/XPSilver.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/Skins/iOS4.asz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyberGate v3.4.2.2 Cracked by The Old Warrior/CyberGate v3.4.2.2 Cracked by The Old Warrior/sound.wav" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="cb7a2b97-cddb-470e-9e27-3b8f4cfb6e6c" />
+        <option name="url" value="https://github.com/Indestructible7/CyberGate-v3.4.2.2.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="2RwgtjGZA5eWhuqqzCSwFzh7rPg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.google.cloudcode.ide_session_index": "20230701_0001",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/satos/IdeaSnapshots",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ruby.rails.projectView.checked": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="V Test .idea" type="VlangTest" factoryName="VlangTest" temporary="true">
+      <option name="scope" value="Directory" />
+      <option name="testFile" value="" />
+      <option name="directory" value="$PROJECT_DIR$/.idea" />
+      <option name="pattern" value="" />
+      <option name="additionalParameters" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="V Test.V Test .idea" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="US-ASCII" />
+    <option name="myConnectionType" value="CURRENT_VAGRANT" />
+    <option name="myConnectionId" value="" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a460c872-64e2-46c2-a5be-874c2acb1e79" name="Changes" comment="" />
+      <created>1688166775986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688166775986</updated>
+      <workItem from="1688166784850" duration="179000" />
+      <workItem from="1688167035101" duration="4180000" />
+      <workItem from="1688207359983" duration="556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
